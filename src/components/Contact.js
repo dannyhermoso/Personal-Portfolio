@@ -31,7 +31,7 @@ export const Contact = () => {
   };
 
   return (
-    <div>
+    <section id='contact'>
       <Container>
       <ContactContainer>
       <FlexRow>
@@ -51,7 +51,7 @@ export const Contact = () => {
             </StyledContactForm>
             </ContactContainer>
       </Container>
-    </div>
+    </section>
   );
 };
 
