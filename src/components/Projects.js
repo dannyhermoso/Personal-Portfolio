@@ -17,10 +17,8 @@ import game1 from '../assets/img/game1.PNG'
 import game2 from '../assets/img/game2.PNG'
 import game3 from '../assets/img/game3.PNG'
 import game4 from '../assets/img/game4.PNG'
-import game5 from '../assets/img/game5.PNG'
 import game6 from '../assets/img/game6.PNG'
 import game7 from '../assets/img/game7.PNG'
-import game8 from '../assets/img/game8.PNG'
 
 
 export const Projects = () => {
